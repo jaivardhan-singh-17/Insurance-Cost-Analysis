@@ -1,0 +1,1 @@
+Develop predictive models to estimate insurance charges using exploratory data analysis (EDA) and linear regression techniques, including single and multi-variable models, with the implementation of Ridge regression for refinement.
